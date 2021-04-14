@@ -1,0 +1,416 @@
+card_title,house,card_type,rarity,card_number,expansion
+Alaka,Brobnar,Creature,Common,1,343
+Alaka's Brew,Brobnar,Action,Variant,2,343
+Ballcano,Brobnar,Action,Common,3,343
+Barn Razing,Brobnar,Action,Common,4,343
+Berserker Slam,Brobnar,Action,Common,5,343
+Cowfyne,Brobnar,Creature,Common,6,343
+Ganger Chieftain,Brobnar,Creature,Common,7,343
+Groke,Brobnar,Creature,Common,8,343
+Gron Nine-Toes,Brobnar,Creature,Common,9,343
+Irestaff,Brobnar,Artifact,Common,10,343
+Mogghunter,Brobnar,Creature,Common,11,343
+Narp,Brobnar,Creature,Common,12,343
+Shorty,Brobnar,Creature,Common,13,343
+Stilt-Kin,Brobnar,Creature,Common,14,343
+Tremor,Brobnar,Action,Common,15,343
+Warrior's Refrain,Brobnar,Action,Common,16,343
+Blood Money,Brobnar,Action,Uncommon,17,343
+Flamethrower,Brobnar,Artifact,Uncommon,18,343
+Flamewake Shaman,Brobnar,Creature,Uncommon,19,343
+Fyre-Breath,Brobnar,Upgrade,Uncommon,20,343
+Gargantes Scrapper,Brobnar,Creature,Uncommon,21,343
+Gravelguts,Brobnar,Creature,Uncommon,22,343
+Little Rapscal,Brobnar,Creature,Uncommon,23,343
+Ogopogo,Brobnar,Creature,Uncommon,24,343
+Overrun,Brobnar,Action,Uncommon,25,343
+Power of Fire,Brobnar,Action,Uncommon,26,343
+Ragwarg,Brobnar,Artifact,Uncommon,27,343
+Shattered Throne,Brobnar,Artifact,Uncommon,28,343
+Skoll,Brobnar,Creature,Uncommon,29,343
+Slimy Jark,Brobnar,Creature,Uncommon,30,343
+Smith,Brobnar,Action,Uncommon,31,343
+The Flex,Brobnar,Action,Uncommon,32,343
+Barehanded,Brobnar,Action,Rare,33,343
+Bellowing Patrizate,Brobnar,Creature,Rare,34,343
+Cybergiant Rig,Brobnar,Upgrade,Rare,35,343
+Forgemaster Og,Brobnar,Creature,Rare,36,343
+Grumpus Tamer,Brobnar,Creature,Rare,37,343
+Guji Dinosaur Hunter,Brobnar,Creature,Rare,38,343
+Igon the Green,Brobnar,Creature,Rare,39,343
+Iron Obelisk,Brobnar,Artifact,Rare,40,343
+Kaloch Stonefather,Brobnar,Creature,Rare,41,343
+Lava Ball,Brobnar,Action,Rare,42,343
+Mugwump,Brobnar,Creature,Rare,43,343
+Nogi Smartfist,Brobnar,Creature,Rare,44,343
+Old Boomy,Brobnar,Creature,Rare,45,343
+Pile of Skulls,Brobnar,Artifact,Rare,46,343
+Ragnarok,Brobnar,Action,Rare,47,343
+Rock-Hurling Giant,Brobnar,Creature,Rare,48,343
+Signal Fire,Brobnar,Artifact,Rare,49,343
+The Big One,Brobnar,Artifact,Rare,50,343
+The Floor is Lava,Brobnar,Artifact,Rare,51,343
+War Grumpus,Brobnar,Creature,Rare,52,343
+Igon the Terrible,Brobnar,Creature,Variant,53,343
+Mega Alaka,Brobnar,Creature,Variant,54,343
+Mega Cowfyne,Brobnar,Creature,Variant,55,343
+Mega Ganger Chieftain,Brobnar,Creature,Variant,56,343
+Mega Groke,Brobnar,Creature,Variant,57,343
+Mega Gron Nine-Toes,Brobnar,Creature,Variant,58,343
+Mega Mogghunter,Brobnar,Creature,Variant,59,343
+Mega Narp,Brobnar,Creature,Variant,60,343
+Mega Shorty,Brobnar,Creature,Variant,61,343
+Chieftain's Brew,Brobnar,Action,Variant,62,343
+Cowfyne's Brew,Brobnar,Action,Variant,63,343
+Groke's Brew,Brobnar,Action,Variant,64,343
+Gron's Brew,Brobnar,Action,Variant,65,343
+Mogghunter's Brew,Brobnar,Action,Variant,66,343
+Narp's Brew,Brobnar,Action,Variant,67,343
+Shorty's Brew,Brobnar,Action,Variant,68,343
+Binding Irons,Dis,Action,Common,69,343
+Buzzle,Dis,Creature,Common,70,343
+Dendrix,Dis,Creature,Common,71,343
+Draining Touch,Dis,Action,Common,72,343
+Etaromme,Dis,Creature,Common,73,343
+Exhume,Dis,Action,Common,74,343
+Festering Touch,Dis,Action,Common,75,343
+Harbinger of Doom,Dis,Creature,Common,76,343
+Impspector,Dis,Creature,Common,77,343
+Infurnace,Dis,Creature,Common,78,343
+Lilithal,Dis,Creature,Common,79,343
+Malison,Dis,Creature,Common,80,343
+Misery Exploit,Dis,Action,Common,81,343
+Not Finished with You,Dis,Action,Common,82,343
+Rotgrub,Dis,Creature,Common,83,343
+The Evil Eye,Dis,Action,Common,84,343
+Bloodshard Imp,Dis,Creature,Uncommon,85,343
+Borr Nit,Dis,Creature,Uncommon,86,343
+Borr Nit's Touch,Dis,Action,Uncommon,87,343
+E'e on the Fringes,Dis,Creature,Uncommon,88,343
+Giants' Bane,Dis,Action,Variant,89,343
+Gleeful Mayhem,Dis,Action,Uncommon,90,343
+Hysteria,Dis,Action,Uncommon,91,343
+Library of the Damned,Dis,Artifact,Uncommon,92,343
+Obsidian Forge,Dis,Artifact,Uncommon,93,343
+Poltergeist,Dis,Action,Uncommon,94,343
+Skullion,Dis,Creature,Uncommon,95,343
+Snag,Dis,Creature,Uncommon,96,343
+Soul Fiddle,Dis,Artifact,Uncommon,97,343
+Soulkeeper,Dis,Upgrade,Uncommon,98,343
+Spyyyder,Dis,Creature,Uncommon,99,343
+Three Fates,Dis,Action,Uncommon,100,343
+A Fair Game,Dis,Action,Rare,101,343
+Collar of Subordination,Dis,Upgrade,Rare,102,343
+Creeping Oblivion,Dis,Action,Rare,103,343
+Eater of the Dead,Dis,Creature,Rare,104,343
+Greater Oxtet,Dis,Creature,Rare,105,343
+Harvest Time,Dis,Action,Rare,106,343
+Hecatomb,Dis,Action,Rare,107,343
+Key to Dis,Dis,Artifact,Rare,108,343
+Lesser Oxtet,Dis,Creature,Rare,109,343
+Lord Invidius,Dis,Creature,Rare,110,343
+Neffru,Dis,Creature,Rare,111,343
+Noname,Dis,Creature,Rare,112,343
+Onyx Knight,Dis,Creature,Rare,113,343
+Orb of Invidius,Dis,Artifact,Rare,114,343
+Ortannu the Chained,Dis,Creature,Rare,115,343
+Sinestra,Dis,Creature,Variant,116,343
+Snag's Mirror,Dis,Artifact,Rare,117,343
+Snaglet,Dis,Creature,Rare,118,343
+Soul Snatcher,Dis,Artifact,Rare,119,343
+Wretched Doll,Dis,Artifact,Rare,120,343
+Ortannu's Binding,Dis,Action,Variant,121,343
+Beasts' Bane,Dis,Action,Variant,122,343
+Demon's Bane,Dis,Action,Variant,123,343
+Dexus,Dis,Creature,Variant,124,343
+Dinosaurs' Bane,Dis,Action,Variant,125,343
+Humans' Bane,Dis,Action,Variant,126,343
+Scientists' Bane,Dis,Action,Variant,127,343
+Thieves' Bane,Dis,Action,Variant,128,343
+Babbling Bibliophile,Logos,Creature,Common,129,343
+Cutthroat Research,Logos,Action,Common,130,343
+Daughter,Logos,Creature,Common,131,343
+"EDAI Eddie"" 4x4""",Logos,Creature,Common,132,343
+Eyegor,Logos,Creature,Common,133,343
+Hapsis,Logos,Creature,Common,134,343
+Hologrammophone,Logos,Artifact,Common,135,343
+Information Exchange,Logos,Action,Common,136,343
+Quant,Logos,Creature,Common,137,343
+Sanitation Engineer,Logos,Creature,Common,138,343
+Tautau Vapors,Logos,Action,Common,139,343
+Thorium Plasmate,Logos,Action,Common,140,343
+Titan Guardian,Logos,Creature,Common,141,343
+Twin Bolt Emission,Logos,Action,Common,142,343
+Wild Wormhole,Logos,Action,Common,143,343
+Wormhole Technician,Logos,Creature,Common,144,343
+Anomaly Exploiter,Logos,Artifact,Uncommon,145,343
+C.AE.N.D.L.E. Unit,Logos,Creature,Uncommon,146,343
+Code Monkey,Logos,Creature,Uncommon,147,343
+Data Forge,Logos,Action,Uncommon,148,343
+Discombobulator,Logos,Upgrade,Uncommon,149,343
+Dr. Milli,Logos,Creature,Uncommon,150,343
+Groupthink Tank,Logos,Creature,Uncommon,151,343
+Interdimensional Graft,Logos,Action,Uncommon,152,343
+Jargogle,Logos,Creature,Uncommon,153,343
+Memory Chip,Logos,Artifact,Uncommon,154,343
+Mini Groupthink Tank,Logos,Creature,Uncommon,155,343
+Positron Bolt,Logos,Action,Uncommon,156,343
+Quantum Fingertrap,Logos,Artifact,Uncommon,157,343
+Reasembling Automaton,Logos,Creature,Uncommon,158,343
+Remote Access,Logos,Action,Uncommon,159,343
+Seismo-entangler,Logos,Artifact,Uncommon,160,343
+Academy Training,Logos,Upgrade,Rare,161,343
+Chaos Portal,Logos,Artifact,Rare,162,343
+Crazy Killing Machine,Logos,Artifact,Rare,163,343
+Dysania,Logos,Creature,Rare,164,343
+Entropic Swirl,Logos,Action,Rare,165,343
+Fetchdrones,Logos,Artifact,Rare,166,343
+Hyde,Logos,Creature,Rare,167,343
+Knowledge is Power,Logos,Action,Rare,168,343
+Master the Theory,Logos,Action,Rare,169,343
+Mimic Gel,Logos,Creature,Rare,170,343
+Neutron Shark,Logos,Creature,Rare,171,343
+Pocket Universe,Logos,Artifact,Rare,172,343
+Prescriptive Grammarbot,Logos,Creature,Rare,173,343
+Replicator,Logos,Creature,Rare,174,343
+Scientifical Hack,Logos,Artifact,Rare,175,343
+Self-Bolstering Automata,Logos,Creature,Rare,176,343
+Strange Gizmo,Logos,Artifact,Rare,177,343
+Universal Keylock,Logos,Artifact,Rare,178,343
+Universal Recycle Bin,Logos,Artifact,Rare,179,343
+Zenzizenzizenzic,Logos,Creature,Rare,180,343
+Velum,Logos,Creature,Variant,181,343
+Axiom of Grisk,Saurian Republic,Action,Common,182,343
+Brutodon Auxillary,Saurian Republic,Creature,Common,183,343
+Chant of Hubris,Saurian Republic,Action,Common,184,343
+Imperial Scutum,Saurian Republic,Upgrade,Common,185,343
+Imperium,Saurian Republic,Action,Common,186,343
+Legatus Raptor,Saurian Republic,Creature,Common,187,343
+Odoac the Patrician,Saurian Republic,Creature,Common,188,343
+Phalanx Strike,Saurian Republic,Action,Common,189,343
+Praefectus Ludo,Saurian Republic,Creature,Common,190,343
+Questor Jarta,Saurian Republic,Creature,Common,191,343
+Rhetor Gallim,Saurian Republic,Creature,Common,192,343
+Senator Shrix,Saurian Republic,Creature,Common,193,343
+The Golden Spiral,Saurian Republic,Artifact,Common,194,343
+Thero Centurion,Saurian Republic,Creature,Common,195,343
+Tribute,Saurian Republic,Action,Common,196,343
+Tricerian Legionary,Saurian Republic,Creature,Common,197,343
+Ancient Power,Saurian Republic,Action,Uncommon,198,343
+Centurion Stenopius,Saurian Republic,Creature,Uncommon,199,343
+City-State Interest,Saurian Republic,Action,Uncommon,200,343
+Draco Praeco,Saurian Republic,Creature,Uncommon,201,343
+Exile,Saurian Republic,Action,Uncommon,202,343
+Gargantodon,Saurian Republic,Creature,Uncommon,203,343
+Library of Polliasaurus,Saurian Republic,Artifact,Uncommon,204,343
+Orator Hissaro,Saurian Republic,Creature,Uncommon,205,343
+Paraguardian,Saurian Republic,Creature,Uncommon,206,343
+Philophosaurus,Saurian Republic,Creature,Uncommon,207,343
+Regrettable Meteor,Saurian Republic,Action,Uncommon,208,343
+Sic Semper Tyrannosaurus,Saurian Republic,Action,Uncommon,209,343
+Stomp,Saurian Republic,Action,Uncommon,210,343
+Terrordactyl,Saurian Republic,Creature,Uncommon,211,343
+The Callipygian Ideal,Saurian Republic,Upgrade,Uncommon,212,343
+Tribune Pompitus,Saurian Republic,Creature,Uncommon,213,343
+Auto-Legionary,Saurian Republic,Artifact,Rare,214,343
+Cincinnatus Rex,Saurian Republic,Creature,Rare,215,343
+City Gates,Saurian Republic,Artifact,Rare,216,343
+Crassosaurus,Saurian Republic,Creature,Rare,217,343
+Diplo-Macy,Saurian Republic,Action,Rare,218,343
+Favor of Rex,Saurian Republic,Action,Rare,219,343
+Good of the Many,Saurian Republic,Action,Rare,220,343
+Grimlocus Dux,Saurian Republic,Creature,Rare,221,343
+Imperial Forge,Saurian Republic,Action,Rare,222,343
+Imperial Road,Saurian Republic,Artifact,Rare,223,343
+Kompsos Haruspex,Saurian Republic,Creature,Rare,224,343
+Livia the Elder,Saurian Republic,Creature,Rare,225,343
+Primus Unguis,Saurian Republic,Creature,Rare,226,343
+Saurus Rex,Saurian Republic,Creature,Rare,227,343
+Saury About That,Saurian Republic,Action,Rare,228,343
+Senator Bracchus,Saurian Republic,Creature,Rare,229,343
+Sow Salt,Saurian Republic,Action,Rare,230,343
+Spartasaur,Saurian Republic,Creature,Rare,231,343
+Tertiate,Saurian Republic,Action,Rare,232,343
+The Colosseum,Saurian Republic,Artifact,Rare,233,343
+Triumph,Saurian Republic,Action,Rare,234,343
+A. Vinda,Shadows,Creature,Common,235,343
+Bad Penny,Shadows,Creature,Common,236,343
+Breaker Hill,Shadows,Creature,Common,237,343
+Hit and Run,Shadows,Action,Common,238,343
+Hock,Shadows,Action,Common,239,343
+Hugger-Mugger,Shadows,Creature,Common,240,343
+Inky Gloom,Shadows,Action,Common,241,343
+J. Vinda,Shadows,Creature,Common,242,343
+Kymoor Eclipse,Shadows,Action,Common,243,343
+Mug,Shadows,Action,Common,244,343
+Pestering Blow,Shadows,Action,Common,245,343
+Ronnie Wristclocks,Shadows,Creature,Common,246,343
+Symon,Shadows,Creature,Common,247,343
+Trust No One,Shadows,Action,Common,248,343
+Umbra,Shadows,Creature,Common,249,343
+Yantzee Gang,Shadows,Creature,Common,250,343
+Brend the Fanatic,Shadows,Creature,Uncommon,251,343
+Chain Gang,Shadows,Creature,Uncommon,252,343
+Duskrunner,Shadows,Upgrade,Uncommon,253,343
+Fidgit,Shadows,Creature,Uncommon,254,343
+Hidden Stash,Shadows,Action,Uncommon,255,343
+Into the Night,Shadows,Action,Uncommon,256,343
+No Safety in Numbers,Shadows,Action,Uncommon,257,343
+Oubliette,Shadows,Action,Uncommon,258,343
+Skeleton Key,Shadows,Artifact,Uncommon,259,343
+Special Delivery,Shadows,Artifact,Uncommon,260,343
+Spike Trap,Shadows,Artifact,Uncommon,261,343
+Subtle Chain,Shadows,Action,Uncommon,262,343
+Subtle Maul,Shadows,Artifact,Uncommon,263,343
+Too Much to Protect,Shadows,Action,Uncommon,264,343
+Whisper,Shadows,Creature,Uncommon,265,343
+Customs Office,Shadows,Artifact,Rare,266,343
+Finch Cloak,Shadows,Creature,Rare,267,343
+Gambling Den,Shadows,Artifact,Rare,268,343
+Hunter or Hunted?,Shadows,Action,Rare,269,343
+Key of Darkness,Shadows,Action,Rare,270,343
+Keyforgery,Shadows,Artifact,Rare,271,343
+Lethal Distraction,Shadows,Action,Rare,272,343
+Longfused Mines,Shadows,Artifact,Rare,273,343
+Mack the Knife,Shadows,Creature,Rare,274,343
+Manchego,Shadows,Creature,Rare,275,343
+Rigged Lottery,Shadows,Action,Rare,276,343
+Ring of Invisibility,Shadows,Upgrade,Rare,277,343
+Sack of Coins,Shadows,Action,Rare,278,343
+Scowly Caper,Shadows,Creature,Rare,279,343
+Selwyn the Fence,Shadows,Creature,Rare,280,343
+Sneklifter,Shadows,Creature,Rare,281,343
+The Quiet Anvil,Shadows,Artifact,Rare,282,343
+The Shadow Council,Shadows,Creature,Rare,283,343
+Treasure Map,Shadows,Action,Rare,284,343
+Weasand,Shadows,Creature,Rare,285,343
+Brobnar Plant,Shadows,Creature,Variant,286,343
+Dis Plant,Shadows,Creature,Variant,287,343
+Logos Plant,Shadows,Creature,Variant,288,343
+Saurian Plant,Shadows,Creature,Variant,289,343
+Star Alliance Plant,Shadows,Creature,Variant,290,343
+Untamed Plant,Shadows,Creature,Variant,291,343
+Armsmaster Molina,Star Alliance,Creature,Common,292,343
+Chief Engineer Walls,Star Alliance,Creature,Common,293,343
+Cloaking Dongle,Star Alliance,Creature,Common,294,343
+Com. Officer Kirby,Star Alliance,Creature,Common,295,343
+Commander Chan,Star Alliance,Creature,Common,296,343
+Explo-rover,Star Alliance,Creature,Common,297,343
+First Officer Frane,Star Alliance,Creature,Common,298,343
+Lieutenant Khrkhar,Star Alliance,Creature,Common,299,343
+Light of the Archons,Star Alliance,Upgrade,Common,300,343
+Medic Ingram,Star Alliance,Creature,Common,301,343
+Molina's Blaster,Star Alliance,Upgrade,Common,302,343
+Red Alert,Star Alliance,Action,Common,303,343
+Sci. Officer Qincan,Star Alliance,Creature,Common,304,343
+Sensor Chief Garcia,Star Alliance,Creature,Common,305,343
+Stealth Mode,Star Alliance,Action,Common,306,343
+Zap,Star Alliance,Action,Common,307,343
+CALV-1N,Star Alliance,Creature,Uncommon,308,343
+CX0 Taber,Star Alliance,Creature,Uncommon,309,343
+Force Field,Star Alliance,Upgrade,Uncommon,310,343
+Helmsman Spears,Star Alliance,Creature,Uncommon,311,343
+Information Officer Gray,Star Alliance,Creature,Uncommon,312,343
+Lay of the Land,Star Alliance,Action,Uncommon,313,343
+Navigator Ali,Star Alliance,Creature,Uncommon,314,343
+Nurse Soto,Star Alliance,Creature,Uncommon,315,343
+Quadracorder,Star Alliance,Upgrade,Uncommon,316,343
+Quintrino Flux,Star Alliance,Action,Uncommon,317,343
+Sci. Officer Morpheus,Star Alliance,Creature,Uncommon,318,343
+Stunner,Star Alliance,Upgrade,Uncommon,319,343
+Tactical Officer Moon,Star Alliance,Creature,Uncommon,320,343
+Transporter Platform,Star Alliance,Artifact,Uncommon,321,343
+Universal Translator,Star Alliance,Upgrade,Uncommon,322,343
+Xenotraining,Star Alliance,Action,Uncommon,323,343
+Aembertracker,Star Alliance,Creature,Rare,324,343
+Book of IeQ,Star Alliance,Artifact,Rare,325,343
+Captain Val Jericho,Star Alliance,Creature,Rare,326,343
+Crash Muldoon,Star Alliance,Creature,Rare,327,343
+Disruption Field,Star Alliance,Upgrade,Rare,328,343
+Doctor Driscoll,Star Alliance,Creature,Rare,329,343
+Encounter Suit,Star Alliance,Upgrade,Rare,330,343
+Forging an Alliance,Star Alliance,Action,Rare,331,343
+Galactic Census,Star Alliance,Action,Rare,332,343
+General Order 24,Star Alliance,Artifact,Rare,333,343
+Operations Officer Yshi,Star Alliance,Creature,Rare,334,343
+Peace Accord,Star Alliance,Artifact,Rare,335,343
+Plasma Nozzle,Star Alliance,Upgrade,Rare,336,343
+Psionic Officer Lang,Star Alliance,Creature,Rare,337,343
+Quixxle Stone,Star Alliance,Artifact,Rare,338,343
+"Special Agent Fingers""""",Star Alliance,Creature,Rare,339,343
+Tachyon Pulse,Star Alliance,Action,Rare,340,343
+Technivore Pulpate,Star Alliance,Creature,Rare,341,343
+Uncharted Lands,Star Alliance,Artifact,Rare,342,343
+United Action,Star Alliance,Action,Rare,343,343
+We Can ALL Win,Star Alliance,Action,Rare,344,343
+Chan's Blaster,Star Alliance,Upgrade,Variant,345,343
+Frane's Blaster,Star Alliance,Upgrade,Variant,346,343
+Garcia's Blaster,Star Alliance,Upgrade,Variant,347,343
+Ingram's Blaster,Star Alliance,Upgrade,Variant,348,343
+Khrkhar's Blaster,Star Alliance,Upgrade,Variant,349,343
+Kirby's Blaster,Star Alliance,Upgrade,Variant,350,343
+Qincan's Blaster,Star Alliance,Upgrade,Variant,351,343
+Walls' Blaster,Star Alliance,Upgrade,Variant,352,343
+Bramble Lynx,Untamed,Creature,Common,353,343
+Cauldron Boil,Untamed,Action,Common,354,343
+Deepwood Druid,Untamed,Creature,Common,355,343
+Ghosthawk,Untamed,Creature,Common,356,343
+Harmonia,Untamed,Creature,Common,357,343
+Imprinted Murmook,Untamed,Creature,Common,358,343
+Key Charge,Untamed,Action,Common,359,343
+Molephin,Untamed,Creature,Common,360,343
+Musthic Murmook,Untamed,Creature,Common,361,343
+Regrowth,Untamed,Action,Common,362,343
+Rustgnawer,Untamed,Creature,Common,363,343
+Song of the Wild,Untamed,Action,Common,364,343
+Tantadlin,Untamed,Creature,Common,365,343
+The Fittest,Untamed,Action,Common,366,343
+Unnatural Selection,Untamed,Action,Common,367,343
+Unsuspecting Prey,Untamed,Action,Common,368,343
+Camouflage,Untamed,Upgrade,Uncommon,369,343
+Fangtooth Cavern,Untamed,Artifact,Uncommon,370,343
+Flaxia,Untamed,Creature,Uncommon,371,343
+Fogbank,Untamed,Action,Uncommon,372,343
+Gebuk,Untamed,Creature,Uncommon,373,343
+Grasping Vines,Untamed,Action,Uncommon,374,343
+Instrument of Silence,Untamed,Upgrade,Uncommon,375,343
+Kangaphant,Untamed,Creature,Uncommon,376,343
+Low Dawn,Untamed,Action,Uncommon,377,343
+Mab the Mad,Untamed,Creature,Uncommon,378,343
+Mimicry,Untamed,Action,Uncommon,379,343
+Nature's Call,Untamed,Action,Uncommon,380,343
+"Panpaca, Anga",Untamed,Creature,Uncommon,381,343
+"Panpaca, Jaga",Untamed,Creature,Uncommon,382,343
+The Feathered Shaman,Untamed,Creature,Uncommon,383,343
+Wild Spirit,Untamed,Upgrade,Uncommon,384,343
+Creed of Nature,Untamed,Artifact,Rare,385,343
+Creed of Nurture,Untamed,Artifact,Rare,386,343
+Curiosity,Untamed,Action,Rare,387,343
+Eldest Bear,Untamed,Creature,Rare,388,343
+Fuzzy Gruen,Untamed,Creature,Rare,389,343
+Giant Gnawbill,Untamed,Creature,Rare,390,343
+Gravid Cycle,Untamed,Action,Rare,391,343
+Inka the Spider,Untamed,Creature,Rare,392,343
+Moor Wolf,Untamed,Creature,Rare,393,343
+Nepeta Gigantica,Untamed,Artifact,Rare,394,343
+Perilous Wild,Untamed,Action,Rare,395,343
+Piranha Monkeys,Untamed,Creature,Rare,396,343
+Po's Pixies,Untamed,Creature,Rare,397,343
+Punctuated Equilibrium,Untamed,Action,Rare,398,343
+Quicksand,Untamed,Action,Rare,399,343
+Roxador,Untamed,Creature,Rare,400,343
+Teliga,Untamed,Creature,Rare,401,343
+Vineapple Tree,Untamed,Artifact,Rare,402,343
+Witch of the Wilds,Untamed,Creature,Rare,403,343
+Xenos Bloodshadow,Untamed,Creature,Rare,404,343
+Toad,Untamed,Creature,Variant,405,343
+Ghostform,Anomaly,Upgrade,Variant,A01,343
+Infomancer,Anomaly,Creature,Variant,A02,343
+Lateral Shift,Anomaly,Action,Variant,A03,343
+Memolith,Anomaly,Artifact,Variant,A04,343
+"Nizak, The Forgotten",Anomaly,Creature,Variant,A05,343
+Orb of Wonder,Anomaly,Artifact,Variant,A06,343
+The Grim Reaper,Anomaly,Creature,Variant,A07,343
+The Red Baron,Anomaly,Creature,Variant,A08,343
+Timequake,Anomaly,Action,Variant,A09,343
+Valoocanth,Anomaly,Creature,Variant,A10,343
